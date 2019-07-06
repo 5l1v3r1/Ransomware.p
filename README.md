@@ -1,2 +1,3 @@
-# Ransomware.p
-Ransomware i do not codon anything illegal 
+# Ransomware.py
+
+Я не одобряю ничего противозаконного, что вы делаете с этим не моя проблема
